@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Website Analytics",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/analyze_links.py",
+            "console": "integratedTerminal",
+            "args": ["https://www.python.org/"]
+        },
+        {
+            "name": "Website Analytics JSON",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/analyze_links.py",
+            "console": "integratedTerminal",
+            "args": ["https://www.python.org/", "--to=json"]
+        },
+        {
+            "name": "Website Analytics CSV",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/analyze_links.py",
+            "console": "integratedTerminal",
+            "args": ["https://www.python.org/", "--to=csv"]
+        }
+    ]
+}

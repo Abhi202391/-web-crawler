@@ -1,0 +1,280 @@
+link,type,status,latency_ms,bytes,content_type,broken
+https://www.pypi.org/,Internal,200,416.310100001283,27965,text/html; charset=UTF-8,False
+https://docs.pypi.org/,External,200,182.3201000224799,39234,text/html; charset=utf-8,False
+https://packaging.python.org/tutorials/installing-packages/,External,200,884.250000002794,87309,text/html; charset=utf-8,False
+https://packaging.python.org/tutorials/packaging-projects/,External,200,1668.1544000166468,77001,text/html; charset=utf-8,False
+https://www.python.org/psf/,External,200,444.6825999766588,14019,text/html; charset=utf-8,False
+https://status.python.org/,External,200,704.1611000313424,208216,text/html; charset=utf-8,False
+https://donate.pypi.org,External,200,3176.7630000249483,135107,text/html; charset=UTF-8,False
+https://packaging.python.org/,External,200,803.7885000230744,35841,text/html; charset=utf-8,False
+https://www.python.org/dev/peps/pep-0541/,External,200,708.6412999778986,31112,text/html; charset=utf-8,False
+https://blog.pypi.org,External,200,1031.5036000101827,54442,text/html; charset=utf-8,False
+https://dtdg.co/pypi,External,200,1726.8093000166118,5326,text/html,False
+https://github.com/pypi/warehouse,External,200,1189.1300000133924,354426,text/html; charset=utf-8,False
+https://hosted.weblate.org/projects/pypa/warehouse/,External,200,1900.1112999976613,392230,text/html; charset=utf-8,False
+https://github.com/pypi/warehouse/graphs/contributors,External,200,658.99610001361,189575,text/html; charset=utf-8,False
+https://policies.python.org/pypi.org/Terms-of-Service/,External,200,629.8628999502398,87275,text/html; charset=utf-8,False
+https://policies.python.org/python.org/code-of-conduct/,External,200,228.67710003629327,45585,text/html; charset=utf-8,False
+https://policies.python.org/pypi.org/Privacy-Notice/,External,200,403.28070003306493,34556,text/html; charset=utf-8,False
+https://policies.python.org/pypi.org/Acceptable-Use-Policy/,External,200,781.8551000091247,48995,text/html; charset=utf-8,False
+https://www.anthropic.com/,External,200,1013.9989000163041,204635,text/html; charset=utf-8,False
+https://www.techatbloomberg.com/,External,403,2138.568199996371,13856,text/html,True
+https://www.hudsonrivertrading.com/careers/,External,200,1612.7917999983765,257791,text/html; charset=UTF-8,False
+https://about.facebook.com/meta/,External,200,4650.949100032449,507775,"text/html; charset=""utf-8""",False
+https://developer.nvidia.com,External,200,825.9088000049815,43994,text/html; charset=utf-8,False
+https://aka.ms/python,External,200,1834.2353999614716,124014,text/html; charset=utf-8,False
+https://depot.dev,External,200,1879.2203000048175,545282,text/html; charset=utf-8,False
+https://aws.amazon.com/,External,200,761.4119999925606,522509,text/html;charset=utf-8,False
+https://www.datadoghq.com/,External,200,665.228100027889,271273,text/html; charset=utf-8,False
+https://www.fastly.com/,External,,147.53810002002865,0,,True
+https://careers.google.com/,External,200,2800.9823999600485,1129844,text/html; charset=utf-8,False
+https://sentry.io/for/python/?utm_source=pypi&utm_medium=paid-community&utm_campaign=python-na-evergreen&utm_content=static-ad-pypi-sponsor-learnmore,External,200,1613.0658999900334,316644,text/html; charset=utf-8,False
+https://statuspage.io,External,200,1078.3075999934226,127697,text/html;charset=UTF-8,False
+https://www.python.org/psf-landing,External,200,444.3055000156164,14019,text/html; charset=utf-8,False
+https://www.python.org/psf-landing/,External,200,102.28279995499179,14019,text/html; charset=utf-8,False
+https://github.com/pypi/warehouse/commit/1e5bf8e79a5d1b8be305681d118d7f22297454e2,External,200,837.3617000179365,256918,text/html; charset=utf-8,False
+https://www.pypi.org/help/,Internal,200,355.05220002960414,87064,text/html; charset=UTF-8,False
+https://pypi.org/project/requests/,External,200,313.3277999586426,3038,text/html; charset=utf-8,False
+https://pypi.org/project/wheel/,External,200,320.91319997562096,3038,text/html; charset=utf-8,False
+https://packaging.python.org/distributing/,External,200,1131.2232000054792,77001,text/html; charset=utf-8,False
+https://packaging.python.org,External,200,237.92490002233535,35841,text/html; charset=utf-8,False
+https://docs.pypi.org/project-management/yanking,External,200,1286.659299978055,40850,text/html; charset=utf-8,False
+https://www.owasp.org/index.php/Credential_stuffing,External,404,631.5951000433415,47491,text/html; charset=utf-8,True
+https://haveibeenpwned.com/API/v2,External,404,348.92959997523576,15145,text/html; charset=utf-8,True
+https://pypi.org/account/request-password-reset/,External,200,385.3619000292383,27998,text/html; charset=UTF-8,False
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm,External,200,683.4925000439398,99260,text/html; charset=UTF-8,False
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2,External,200,530.2241999888793,1340883,text/html; charset=utf-8,False
+https://itunes.apple.com/app/google-authenticator/id388497605,External,200,2614.7576000075787,876319,text/html,False
+https://www.microsoft.com/en-us/account/authenticator,External,200,4358.401399978902,148654,text/html; charset=utf-8,False
+https://play.google.com/store/apps/details?id=com.duosecurity.duomobile,External,200,560.8697000425309,1324199,text/html; charset=utf-8,False
+https://itunes.apple.com/app/duo-mobile/id422663827,External,200,1726.3919999822974,638854,text/html,False
+https://authy.com/,External,200,1930.9301999746822,110185,text/html;charset=utf-8,False
+https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus,External,200,510.6000999803655,1263353,text/html; charset=utf-8,False
+https://freeotp.github.io/,External,200,370.8580000093207,3391,text/html; charset=utf-8,False
+https://1password.com/,External,200,207.50009996118024,1156328,text/html; charset=utf-8,False
+https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential,External,200,298.91429998679087,162677,text/html,False
+https://fidoalliance.org/specifications/download/,External,200,588.5455999523401,405578,text/html; charset=UTF-8,False
+https://www.yubico.com/,External,200,349.8781999805942,521989,text/html; charset=UTF-8,False
+https://cloud.google.com/titan-security-key/,External,200,1235.5166000197642,2225663,text/html; charset=utf-8,False
+https://thetis.io/,External,200,456.8710000021383,894638,text/html; charset=utf-8,False
+https://fidoalliance.org/certification/fido-certified-products/,External,200,1512.764800048899,352671,text/html; charset=UTF-8,False
+https://fidoalliance.org/news-your-google-android-7-phone-is-now-a-fido2-security-key/,External,200,990.042999968864,243170,text/html; charset=UTF-8,False
+https://www.w3.org/TR/webauthn/,External,200,313.14719998044893,2801031,text/html; charset=utf-8,False
+https://packaging.python.org/guides/distributing-packages-using-setuptools/,External,200,1023.9384999731556,77798,text/html; charset=utf-8,False
+https://docs.travis-ci.com/user/deployment/pypi/,External,200,1483.490200014785,31477,text/html,False
+https://docs.pypi.org/trusted-publishers/,External,200,376.4216999989003,40922,text/html; charset=utf-8,False
+https://docs.pypi.org/api/,External,200,415.834299987182,49720,text/html; charset=utf-8,False
+https://pypi.org/project/bandersnatch/,External,200,330.29610000085086,3038,text/html; charset=utf-8,False
+https://docs.pypi.org/api/feeds/,External,200,424.9004000448622,40167,text/html; charset=utf-8,False
+https://github.com/marketplace?category=dependency-management&query=python,External,200,992.3849999904633,529336,text/html; charset=utf-8,False
+https://packaging.python.org/guides/analyzing-pypi-package-downloads/,External,200,1435.1032999693416,63027,text/html; charset=utf-8,False
+https://libraries.io/pypi,External,200,4655.417200003285,23835,text/html; charset=utf-8,False
+https://libraries.io/pypi/twine/,External,200,885.6511000194587,37920,text/html; charset=utf-8,False
+https://libraries.io/api,External,200,2887.359899992589,7225626,text/html; charset=utf-8,False
+https://github.com/librariesio/bibliothecary/issues/415,External,200,1288.2471000193618,246870,text/html; charset=utf-8,False
+https://docs.libraries.io/overview,External,,10582.532800035551,0,,True
+https://pypi.org/project/devpi/,External,200,353.8020999985747,3038,text/html; charset=utf-8,False
+https://docs.python.org/3/library/index.html,External,200,472.6873000035994,73289,text/html,False
+https://docutils.sourceforge.io/rst.html,External,200,1123.8042000331916,13174,text/html,False
+https://packaging.python.org/guides/making-a-pypi-friendly-readme/,External,200,945.0876999762841,43697,text/html; charset=utf-8,False
+https://docs.pypi.org/project-management/storage-limits/,External,200,481.2151999794878,46090,text/html; charset=utf-8,False
+https://osv.dev/,External,200,1363.036099995952,39813,text/html; charset=utf-8,False
+https://github.com/pypa/advisory-database,External,200,996.757700049784,286830,text/html; charset=utf-8,False
+https://github.com/pypa/advisory-database/issues,External,200,905.2793000009842,291618,text/html; charset=utf-8,False
+https://twine.readthedocs.io/,External,200,606.8498999811709,37495,text/html; charset=utf-8,False
+https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md,External,200,748.921699996572,233034,text/html; charset=utf-8,False
+https://github.com/pypi/support/issues/new?assignees=&labels=account-recovery&template=account-recovery.yml&title=Account+recovery+request,External,200,1015.2221999596804,48258,text/html; charset=utf-8,False
+https://bugs.python.org/issue37426,External,200,1316.7073000222445,23549,text/html; charset=utf-8,False
+https://mail.python.org/pipermail/python-announce-list/2018-April/011885.html,External,200,568.7487999675795,5561,text/html,False
+https://pyfound.blogspot.com/2017/01/time-to-upgrade-your-python-tls-v12.html,External,200,1704.1151999728754,123424,text/html; charset=UTF-8,False
+https://web.libera.chat/,External,200,2480.6941999704577,1107,text/html,False
+https://github.com/pypa/packaging-problems/issues,External,200,1032.9318000003695,297907,text/html; charset=utf-8,False
+https://discuss.python.org/c/packaging/14,External,200,1701.6110999975353,91357,text/html; charset=utf-8,False
+https://en.wikipedia.org/wiki/Web_accessibility,External,200,868.5668000252917,462138,text/html; charset=UTF-8,False
+https://github.com/pypi/warehouse/issues,External,200,1307.5951999635436,333769,text/html; charset=utf-8,False
+https://status.python.org,External,200,667.3194000031799,208216,text/html; charset=utf-8,False
+https://github.com/pypa/trove-classifiers/,External,200,969.2288000369444,281887,text/html; charset=utf-8,False
+https://warehouse.pypa.io/,External,200,518.7631000299007,31337,text/html; charset=utf-8,False
+https://www.pypa.io/,External,200,1204.5174000086263,12129,text/html; charset=utf-8,False
+https://wiki.python.org/psf/PackagingWG,External,200,1790.3954000212252,104055,text/html,False
+https://pyfound.blogspot.com/2019/03/commencing-security-accessibility-and.html,External,200,1595.418700017035,120341,text/html; charset=UTF-8,False
+https://donate.pypi.org/,External,200,3196.5672999504022,135112,text/html; charset=UTF-8,False
+https://warehouse.pypa.io/development/getting-started/,External,200,645.6642999546602,108243,text/html; charset=utf-8,False
+https://github.com/pypi/warehouse/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22,External,200,922.889799985569,240384,text/html; charset=utf-8,False
+https://github.com/pypi/warehouse/milestones,External,200,867.7694000070915,240844,text/html; charset=utf-8,False
+https://discuss.python.org/c/packaging,External,200,2499.542100005783,91357,text/html; charset=utf-8,False
+https://mail.python.org/mailman3/lists/pypi-announce.python.org/,External,200,647.8208000189625,6433,text/html; charset=utf-8,False
+https://blog.pypi.org/feed_rss_created.xml,External,200,985.3219999931753,216869,text/xml; charset=utf-8,False
+https://api.fastly.com/public-ip-list,External,,186.95669999578968,0,,True
+https://docs.fastly.com/en/guides/accessing-fastlys-ip-ranges,External,,227.25899994838983,0,,True
+https://pypy.org/,External,200,417.76679997565225,8595,text/html; charset=utf-8,False
+https://docs.python.org,External,200,389.64649999979883,19641,text/html,False
+https://python.org/,External,200,366.6920000105165,11707,text/html; charset=utf-8,False
+https://python.org/community/,External,200,168.43339998740703,8121,text/html; charset=utf-8,False
+https://pypa.io,External,200,1189.7113000159152,12129,text/html; charset=utf-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2F,Internal,200,585.3645000024699,29429,text/html; charset=UTF-8,False
+https://www.pypi.org/account/register/,Internal,200,872.8546000202186,35048,text/html; charset=UTF-8,False
+https://www.pypi.org/search/,Internal,200,419.698600017,3038,text/html; charset=utf-8,False
+https://www.pypi.org/organizations/,Internal,200,1055.037300044205,30144,text/html; charset=UTF-8,False
+https://docs.pypi.org/organization-accounts/,External,200,149.31830001296476,38893,text/html; charset=utf-8,False
+https://www.pypi.org/stats/,Internal,200,416.63360001984984,37480,text/html; charset=UTF-8,False
+https://docs.pypi.org/api/bigquery/,External,200,389.969400013797,40138,text/html; charset=utf-8,False
+https://p.datadoghq.com/sb/7dc8b3250-85dcf667bd,External,200,1067.5296999979764,5326,text/html,False
+https://pypistats.org/,External,200,976.3406999991275,2675,text/html; charset=utf-8,False
+https://deps.dev/,External,200,362.5914999865927,1308,text/html; charset=utf-8,False
+https://clickpy.clickhouse.com/,External,200,304.6157999779098,52887,text/html; charset=utf-8,False
+https://github.com/pypi/warehouse/commit/4e5b9b698ee65ae1b00b94c5d4808eabbec81bb9,External,200,862.5846999930218,277117,text/html; charset=utf-8,False
+https://www.pypi.org/trademarks/,Internal,200,797.1344999969006,28127,text/html; charset=UTF-8,False
+https://www.pypi.org/sponsors/,Internal,200,1934.3560000415891,83008,text/html; charset=UTF-8,False
+https://pyfound.blogspot.com/2017/11/the-psf-awarded-moss-grant-pypi.html,External,200,1646.6110000037588,123699,text/html; charset=UTF-8,False
+https://www.mozilla.org/en-US/moss/,External,200,714.0729000093415,66841,text/html; charset=utf-8,False
+https://www.opentech.fund/results/supported-projects/pypi-improvements/,External,200,1255.8886999613605,134695,text/html; charset=UTF-8,False
+http://pyfound.blogspot.com/2018/12/upcoming-pypi-improvements-for-2019.html,External,200,1950.5264000035822,135172,text/html; charset=UTF-8,False
+https://research.fb.com/,External,200,3374.4276000070386,92788,"text/html; charset=""utf-8""",False
+https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html,External,200,1614.6715999930166,130280,text/html; charset=UTF-8,False
+https://chanzuckerberg.com/eoss/,External,200,1329.3742999667302,83240,text/html; charset=UTF-8,False
+https://www.python.org/sponsors/application/,External,200,1616.233899956569,240534,text/html; charset=utf-8,False
+https://www.anaconda.com/,External,200,283.8772000395693,460826,text/html; charset=UTF-8,False
+https://www.capitalone.com/tech/,External,200,422.8011999512091,435969,text/html,False
+https://www.redhat.com/en,External,200,436.3813999807462,1080844,text/html; charset=UTF-8,False
+http://serpapi.com/?utm_source=pythonorg,External,200,503.5630000056699,165973,text/html; charset=utf-8,False
+https://vercel.com/,External,200,243.10870002955198,526514,text/html; charset=utf-8,False
+https://point72.com/cubist/,External,200,1652.0308000035584,152126,text/html; charset=UTF-8,False
+https://www.jetbrains.com/pycharm/,External,200,707.9978000256233,196996,text/html,False
+https://pythoninstitute.org/,External,,1739.1627000179142,0,,True
+https://www.snowflake.com/en/,External,200,367.2377999755554,987378,text/html;charset=utf-8,False
+https://www.alpha-sense.com/,External,200,1054.048599966336,340553,text/html; charset=utf-8,False
+https://www.chainguard.dev/,External,200,427.56899999221787,1313744,text/html; charset=utf-8,False
+https://www.cloudflare.com/,External,200,466.94259997457266,1323648,text/html; charset=utf-8,False
+http://codeflash.ai,External,200,1519.9507999932393,73633,text/html; charset=utf-8,False
+https://codspeed.io,External,200,314.9571000249125,446592,text/html; charset=utf-8,False
+https://hex.tech/,External,200,1517.6042999955826,1165082,text/html; charset=utf-8,False
+https://www.indeed.com/about,External,200,443.9070000080392,136703,text/html;charset=utf-8,False
+https://www.janestreet.com/,External,200,1002.0134000224061,64736,text/html,False
+https://kraken.tech/,External,200,945.1941999723203,172970,text/html; charset=utf-8,False
+https://www.malwarebytes.com,External,200,5885.264200042002,1414042,text/html; charset=UTF-8,False
+https://careers.manychat.com/,External,200,1512.8425000002608,104061,text/html; charset=utf-8,False
+https://about.netflix.com/en,External,200,1717.8366999723949,73423,text/html; charset=utf-8,False
+https://posit.co/,External,200,1631.1661999789067,306946,text/html; charset=UTF-8,False
+https://pydantic.dev/about,External,200,273.1805000221357,146512,text/html,False
+https://www.qube-rt.com/,External,200,1234.370400023181,10907,text/html; charset=UTF-8,False
+https://analog.com,External,,11176.421599986497,0,,True
+https://apify.com/,External,200,803.4251999924891,491843,text/html; charset=utf-8,False
+https://astral.sh/,External,200,314.0741999959573,144076,text/html; charset=utf-8,False
+https://www.auth0.com,External,200,462.92139997240156,451819,text/html; charset=utf-8,False
+https://www.cesiumastro.com/,External,200,335.7197000295855,70189,text/html; charset=utf-8,False
+https://www.elastic.co/,External,200,515.42030001292,616873,text/html; charset=utf-8,False
+https://jinja.app/python-developers,External,200,1401.9191000261344,132002,text/html; charset=utf-8,False
+https://marimo.io/,External,200,367.7309000049718,536274,text/html; charset=utf-8,False
+https://www.minimus.io/,External,200,548.1848000199534,86207,text/html; charset=utf-8,False
+https://motional.com/,External,200,413.65840000798926,32919,text/html; charset=UTF-8,False
+https://www.oldmissioncapital.com/,External,200,1839.5415000268258,55232,text/html; charset=UTF-8,False
+https://pretix.eu/about/en/company,External,200,1757.3436999809928,31619,text/html; charset=utf-8,False
+https://reflex.dev/,External,200,2072.155700006988,367148,text/html; charset=utf-8,False
+https://www.reversinglabs.com/,External,200,1515.0055999984033,266089,text/html; charset=utf-8,False
+https://temporal.io/community,External,200,263.98849999532104,208646,text/html; charset=utf-8,False
+https://tower-research.com/,External,200,643.746400019154,220530,text/html; charset=UTF-8,False
+https://www.zyte.com/,External,200,791.6370999882929,471317,text/html; charset=utf-8,False
+https://isotoma.com/,External,200,926.3865000102669,20333,text/html; charset=utf-8,False
+https://www.usercheck.com/,External,200,586.216899973806,106315,text/html; charset=utf-8,False
+https://www.altitudec.com/en,External,200,1013.280900020618,50210,text/html; charset=utf-8,False
+https://github.com/psf/fundable-packaging-improvements/blob/master/FUNDABLES.md,External,200,1615.2293999912217,452152,text/html; charset=utf-8,False
+https://www.mozilla.org,External,200,169.53699995065108,49273,text/html; charset=utf-8,False
+https://www.opentech.fund,External,200,173.9337999606505,134695,text/html; charset=UTF-8,False
+https://www.pypi.org/security/,Internal,200,5710.79290000489,29149,text/html; charset=UTF-8,False
+https://inspector.pypi.io/,External,200,702.0275000249967,750,text/html; charset=utf-8,False
+https://www.pypi.org/sitemap/,Internal,200,823.7008999567479,28114,text/html; charset=UTF-8,False
+https://pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fsitemap%2F,External,200,463.83660001447424,29481,text/html; charset=UTF-8,False
+https://pypi.org/account/register/,External,200,492.6994999987073,35048,text/html; charset=UTF-8,False
+https://pypi.org/trademarks/,External,200,433.27310000313446,28127,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fhelp%2F,Internal,200,570.7336000050418,29466,text/html; charset=UTF-8,False
+https://www.pypi.org/classifiers/,Internal,200,936.7980000097305,530704,text/html; charset=UTF-8,False
+https://packaging.python.org/guides/writing-pyproject-toml/,External,200,1139.5289999782108,89363,text/html; charset=utf-8,False
+https://peps.python.org/pep-0301/,External,200,439.24480001442134,32082,text/html; charset=utf-8,False
+https://www.pypi.org/manage/account/,Internal,200,5687.506899994332,29412,text/html; charset=UTF-8,False
+https://www.pypi.org/account/reset-password/,Internal,200,1113.5562999988906,27998,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Faccount%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fpypi.org%252F,Internal,200,487.77459998382255,29750,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Faccount%2Fregister%2F,Internal,200,1145.4666000208817,29538,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Forganizations%2F,Internal,200,630.6655999505892,29511,text/html; charset=UTF-8,False
+https://www.pypi.org/manage/organizations/,Internal,200,1324.7792999609374,29442,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fstats%2F,Internal,200,968.640899984166,29471,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Ftrademarks%2F,Internal,200,492.84419999457896,29496,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fsponsors%2F,Internal,200,474.77640002034605,29486,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fsecurity%2F,Internal,200,495.73069997131824,29486,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fsitemap%2F,Internal,200,469.79689999716356,29481,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Faccount%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fpypi.org%252Fhelp%252F,Internal,200,642.4794000340626,29797,text/html; charset=UTF-8,False
+https://www.pypi.org/account/login/?next=https%3A%2F%2Fpypi.org%2Fclassifiers%2F,Internal,200,630.6722000008449,29501,text/html; charset=UTF-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+1+-+Planning,Internal,200,448.95849999738857,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+2+-+Pre-Alpha,Internal,200,439.78350004181266,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+3+-+Alpha,Internal,200,465.7772000064142,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+4+-+Beta,Internal,200,446.3415999780409,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+5+-+Production%2FStable,Internal,200,442.45309999678284,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+6+-+Mature,Internal,200,454.35310003813356,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Development+Status+%3A%3A+7+-+Inactive,Internal,200,407.2501999908127,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Console,Internal,200,409.3406000174582,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Console+%3A%3A+Curses,Internal,200,437.9880999913439,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Console+%3A%3A+Framebuffer,Internal,200,432.7315000118688,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Console+%3A%3A+Newt,Internal,200,443.621099984739,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Console+%3A%3A+svgalib,Internal,200,415.05239997059107,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Cygwin+%28MS+Windows%29,Internal,200,398.88779999455437,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU,Internal,200,441.88779999967664,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA,Internal,200,420.11300002923235,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+1.0,Internal,200,416.66990000521764,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+1.1,Internal,200,449.62829997530207,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+2.0,Internal,200,420.8670000080019,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+2.1,Internal,200,403.7302999640815,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+2.2,Internal,200,415.5218999949284,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+2.3,Internal,200,452.69900001585484,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+3.0,Internal,200,438.46279999706894,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+3.1,Internal,200,428.30159998266026,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+3.2,Internal,200,434.3504999997094,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+4.0,Internal,200,411.8167000124231,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+4.1,Internal,200,417.1142000122927,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+4.2,Internal,200,454.89479997195303,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+5.0,Internal,200,409.4432999845594,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+5.5,Internal,200,409.06590002123266,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+6.0,Internal,200,425.57530000340194,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+6.5,Internal,200,424.9712000018917,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+7.0,Internal,200,460.68759995978326,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+7.5,Internal,200,438.0982000147924,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+8.0,Internal,200,438.1071000243537,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+9.0,Internal,200,435.8607999747619,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+9.1,Internal,200,430.89930003043264,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+9.2,Internal,200,428.2861999818124,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+10.0,Internal,200,430.0266999634914,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+10.1,Internal,200,407.17909997329116,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+10.2,Internal,200,400.63379995990545,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11,Internal,200,442.16410000808537,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.0,Internal,200,419.6523000136949,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.1,Internal,200,492.99350002547726,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.2,Internal,200,402.3013999685645,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.3,Internal,200,429.31499995756894,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.4,Internal,200,441.8083000346087,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.5,Internal,200,428.98090003291145,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.6,Internal,200,428.8480000104755,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.7,Internal,200,480.35670001991093,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+11.8,Internal,200,434.8657999653369,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12,Internal,200,422.9513999889605,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.0,Internal,200,453.1979000312276,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.1,Internal,200,424.3871999788098,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.2,Internal,200,429.69580000499263,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.3,Internal,200,410.76980001525953,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.4,Internal,200,416.1677000229247,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.5,Internal,200,411.4015999948606,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+12+%3A%3A+12.6,Internal,200,431.08370003756136,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+GPU+%3A%3A+NVIDIA+CUDA+%3A%3A+13,Internal,200,418.73180004768074,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Handhelds%2FPDA%27s,Internal,200,420.5751999979839,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+MacOS+X,Internal,200,410.2495000115596,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+MacOS+X+%3A%3A+Aqua,Internal,200,418.64970000460744,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+MacOS+X+%3A%3A+Carbon,Internal,200,407.294999982696,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+MacOS+X+%3A%3A+Cocoa,Internal,200,422.06819995772094,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+No+Input%2FOutput+%28Daemon%29,Internal,200,440.7463999814354,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+OpenStack,Internal,200,434.40369999734685,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Other+Environment,Internal,200,443.6772000044584,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Plugins,Internal,200,403.7773000309244,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Web+Environment,Internal,200,407.19860000535846,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Web+Environment+%3A%3A+Buffet,Internal,200,420.3325000125915,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Web+Environment+%3A%3A+Mozilla,Internal,200,390.1917000184767,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+Web+Environment+%3A%3A+ToscaWidgets,Internal,200,416.5381999919191,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+WebAssembly,Internal,200,438.872899976559,3038,text/html; charset=utf-8,False
+https://www.pypi.org/search/?c=Environment+%3A%3A+WebAssembly+%3A%3A+Emscripten,Internal,200,426.4383999980055,3038,text/html; charset=utf-8,False

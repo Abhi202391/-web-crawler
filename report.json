@@ -1,0 +1,22 @@
+{
+    "url": "https://www.python.org/",
+    "summary": {
+        "total_links": 1,
+        "internal_links": 1,
+        "external_links": 0,
+        "broken_links": 0,
+        "max_latency_ms": 212.1841000043787,
+        "max_bytes": 11707
+    },
+    "links": [
+        {
+            "link": "https://www.python.org/",
+            "type": "Internal",
+            "status": 200,
+            "latency_ms": 212.1841000043787,
+            "bytes": 11707,
+            "content_type": "text/html; charset=utf-8",
+            "broken": false
+        }
+    ]
+}
